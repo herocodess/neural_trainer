@@ -1,16 +1,11 @@
-# neural_trainer
+# Neural Trainer
 
 A new Flutter project.
 
-## Getting Started
+## Video
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/42640073/201991013-2e7333f9-7a3b-4e7a-92a7-dd6d63e81321.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
